@@ -1,0 +1,15 @@
+{
+  "name": "mi-primer-examen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sigma.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest-cli": "^26.4.0"
+  }
+}
